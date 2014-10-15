@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ARConfig> 
+  <config>
+  	<country>HK</country>
+  	<imgurl>https://signin.apple.com/IDMSWebAuth/imageCaptcha/942</imgurl>
+  </config>
+  
+  <StoreInfo>
+    <Store>
+      <name> Causeway Bay </name>
+      <sname>CB </sname>
+      <code> R409</code>
+      <level> 500</level>
+    </Store>
+    <Store>
+      <name>IFC Mall</name>
+      <sname>IFC</sname>
+      <code>R428</code>
+	  <level> 501</level>
+    </Store>
+    <Store>
+      <name>Festival Walk</name>
+      <sname>FW</sname>
+      <code>R485</code>
+	  <level> 501</level>
+    </Store>
+  </StoreInfo>
+  
+ <!--
+  <StoreInfo>
+  	<Store>
+      <name>渋谷</name>
+      <sname>sg</sname>
+      <code>R119</code>
+	  <level> 500</level>
+    </Store>
+    <Store>
+      <name>表参道</name>
+      <sname>bcd</sname>
+      <code> R224</code>
+      <level> 500</level>
+    </Store>
+    <Store>
+      <name>銀座</name>
+      <sname>yz</sname>
+      <code>R079</code>
+	  <level> 500</level>
+    </Store>
+  </StoreInfo>
+ -->
+ <!--
+ <StoreInfo>
+    <Store>
+      <name>IFC PD</name>
+      <sname>浦东国金</sname>
+      <code> R389</code>
+      <level> 500</level>
+    </Store>
+    <Store>
+      <name>HongKong Plaza</name>
+      <sname>香港广场</sname>
+      <code>R390</code>
+	  <level> 500</level>
+    </Store>
+    <Store>
+      <name>NanjingRoad East</name>
+      <sname>南京东路</sname>
+      <code>R359</code>
+	  <level> 500</level>
+    </Store>
+    <Store>
+      <name>IAPM</name>
+      <sname>环贸</sname>
+      <code>R485</code>
+	  <level> 500</level>
+    </Store>
+  </StoreInfo>
+  <ProductInfo>
+  -->
+  	<!--CN-->
+  	<!--<Product level ="300" count="1" name="iPhone 6+ 64GB 金色"    code ="MGAK2CN/A" type ="0" size="64" color ="金色"  product="iPhone 6 Plus" />-->
+  	<!--HK-->
+    
+    <Product level ="290" count="2" name="iPhone 6+ 128GB 金色"   code ="MGAF2ZP/A" type ="0" size="128" color ="金色"  product="iPhone 6 Plus" />
+    <Product level ="300" count="2" name="iPhone 6+ 64GB 金色"    code ="MGAK2ZP/A" type ="0" size="64" color ="金色"  product="iPhone 6 Plus" />
+    <Product level ="280" count="2" name="iPhone 6+ 16GB 金色"    code ="MGAA2ZP/A" type ="0" size="16" color ="金色" product="iPhone 6 Plus" />
+    <Product level ="270" count="2" name="iPhone 6+ 128GB 銀色"   code ="MGAE2ZP/A" type ="0" size="128" color ="銀色" product="iPhone 6 Plus" />
+    <Product level ="280" count="2" name="iPhone 6+ 64GB 銀色"    code ="MGAJ2ZP/A" type ="0" size="64" color ="銀色" product="iPhone 6 Plus" />
+    <Product level ="245" count="2" name="iPhone 6+ 128GB 太空灰"  code ="MGAC2ZP/A" type ="0" size="128" color ="太空灰" product="iPhone 6 Plus" />
+    <Product level ="280" count="2" name="iPhone 6+ 64GB 太空灰"   code ="MGAH2ZP/A" type ="0" size="64" color ="太空灰" product="iPhone 6 Plus" />
+	<Product level ="275" count="2" name="iPhone 6 64GB 金色"   code ="MG4J2ZP/A" type ="1" size="64" color ="金色" product="iPhone 6"/>
+    <Product level ="275" count="2" name="iPhone 6 16GB 金色"   code ="MG492ZP/A" type ="1" size="16" color ="金色" product="iPhone 6"/>
+    
+    <!--
+    <Product level ="250" count="2" name="iPhone 6+ 16GB 銀色"    code ="MGA92ZP/A" type ="0" size="16" color ="銀色" product="iPhone 6 Plus" />
+    <Product level ="240" count="2" name="iPhone 6+ 16GB 太空灰"  code ="MGA82ZP/A" type ="0" size="16" color ="太空灰" product="iPhone 6 Plus" />	
+    <Product level ="130" count="2" name="iPhone 6 128GB 金色"  code ="MG4E2ZP/A" type ="1" size="128" color ="金色" product="iPhone 6" />
+    <Product level ="165" count="2" name="iPhone 6 64GB 金色"   code ="MG4J2ZP/A" type ="1" size="64" color ="金色" product="iPhone 6"/>
+    <Product level ="165" count="2" name="iPhone 6 16GB 金色"   code ="MG492ZP/A" type ="1" size="16" color ="金色" product="iPhone 6"/>
+    <Product level ="130" count="2" name="iPhone 6 128GB 銀色"  code ="MG4C2ZP/A" type ="1" size="128" color ="銀色"  product="iPhone 6"/>
+    <Product level ="160" count="2" name="iPhone 6 64GB 銀色"   code ="MG4H2ZP/A" type ="1" size="64" color ="銀色"   product="iPhone 6"/>
+    <Product level ="160" count="2" name="iPhone 6 16GB 銀色"   code ="MG482ZP/A" type ="1" size="16" color ="銀色"  product="iPhone 6"/>
+    <Product level ="130" count="2" name="iPhone 6 128GB 太空灰"   code ="MG4A2ZP/A" type ="1" size="128" color ="太空灰"  product="iPhone 6"/>
+    <Product level ="155" count="2" name="iPhone 6 64GB 太空灰"  code ="MG4F2ZP/A" type ="1" size="64" color ="太空灰"  product="iPhone 6"/>
+    <Product level ="155" count="2" name="iPhone 6 16GB 太空灰"   code ="MG472ZP/A" type ="1" size="16" color ="太空灰"  product="iPhone 6"/>
+   	-->
+   	<!--JP-->
+   	<!--
+   	<Product level ="290" count="2" name="iPhone 6+ 128GB 金色"   code ="MGAF2J/A" type ="0" size="128" color ="金色"  product="iPhone 6 Plus" />
+    <Product level ="300" count="2" name="iPhone 6+ 64GB 金色"    code ="MGAK2J/A" type ="0" size="64" color ="金色"  product="iPhone 6 Plus" />
+    <Product level ="280" count="2" name="iPhone 6+ 16GB 金色"    code ="MGAA2J/A" type ="0" size="16" color ="金色" product="iPhone 6 Plus" />
+    <Product level ="280" count="2" name="iPhone 6+ 64GB 銀色"    code ="MGAJ2J/A" type ="0" size="64" color ="銀色" product="iPhone 6 Plus" />
+    <Product level ="280" count="2" name="iPhone 6+ 64GB 太空灰"   code ="MGAH2J/A" type ="0" size="64" color ="太空灰" product="iPhone 6 Plus" />
+    <Product level ="270" count="2" name="iPhone 6+ 128GB 銀色"   code ="MGAE2J/A" type ="0" size="128" color ="銀色" product="iPhone 6 Plus" />
+    <Product level ="245" count="2" name="iPhone 6+ 128GB 太空灰"  code ="MGAC2J/A" type ="0" size="128" color ="太空灰" product="iPhone 6 Plus" />
+    -->
+   
+  </ProductInfo> 
+</ARConfig>
+
+
+

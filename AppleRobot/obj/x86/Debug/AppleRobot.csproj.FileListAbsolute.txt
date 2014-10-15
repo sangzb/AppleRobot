@@ -1,0 +1,23 @@
+D:\workspace\vs\AppleRobot\AppleRobot\obj\x86\Debug\AppleRobot.Properties.Resources.resources
+D:\workspace\vs\AppleRobot\AppleRobot\obj\x86\Debug\AppleRobot.csproj.GenerateResource.Cache
+D:\workspace\vs\AppleRobot\AppleRobot\bin\Debug\AppleRobot.exe
+D:\workspace\vs\AppleRobot\AppleRobot\bin\Debug\AppleRobot.pdb
+D:\workspace\vs\AppleRobot\AppleRobot\obj\x86\Debug\AppleRobot.exe
+D:\workspace\vs\AppleRobot\AppleRobot\obj\x86\Debug\AppleRobot.pdb
+D:\workspace\vs\AppleRobot\AppleRobot\obj\x86\Debug\AppleRobot.csprojResolveAssemblyReference.cache
+D:\workspace\vs\AppleRobot\AppleRobot\bin\Debug\AppleRobot.exe.config
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\bin\Debug\AppleRobot.exe.config
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\obj\x86\Debug\AppleRobot.exe
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\obj\x86\Debug\AppleRobot.pdb
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\obj\x86\Debug\AppleRobot.Properties.Resources.resources
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\bin\Debug\AppleRobot.exe
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\bin\Debug\AppleRobot.pdb
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\bin\Debug\asprise-ocr-api.dll
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\bin\Debug\asprise-ocr-api.pdb
+C:\Users\Administrator\Desktop\apple code\AppleRobot\AppleRobot\bin\Debug\asprise-ocr-api.xml
+D:\workspace\vs\AppleRobot\AppleRobot\bin\Debug\asprise-ocr-api.dll
+D:\workspace\vs\AppleRobot\AppleRobot\bin\Debug\asprise-ocr-api.pdb
+D:\workspace\vs\AppleRobot\AppleRobot\bin\Debug\asprise-ocr-api.xml

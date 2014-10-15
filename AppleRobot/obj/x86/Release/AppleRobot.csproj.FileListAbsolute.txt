@@ -1,0 +1,7 @@
+D:\workspace\vs\AppleRobot\AppleRobot\bin\Release\AppleRobot.exe
+D:\workspace\vs\AppleRobot\AppleRobot\bin\Release\AppleRobot.pdb
+D:\workspace\vs\AppleRobot\AppleRobot\obj\x86\Release\AppleRobot.Properties.Resources.resources
+D:\workspace\vs\AppleRobot\AppleRobot\obj\x86\Release\AppleRobot.csproj.GenerateResource.Cache
+D:\workspace\vs\AppleRobot\AppleRobot\obj\x86\Release\AppleRobot.exe
+D:\workspace\vs\AppleRobot\AppleRobot\obj\x86\Release\AppleRobot.pdb
+D:\workspace\vs\AppleRobot\AppleRobot\obj\x86\Release\AppleRobot.csprojResolveAssemblyReference.cache

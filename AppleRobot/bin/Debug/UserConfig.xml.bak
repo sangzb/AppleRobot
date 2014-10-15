@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserConfig>
+  <UserInfo>
+    <id>sangzb@hotmail.com</id>
+    <pass>83Szb11sZB07</pass>
+    <!--<id>dingdong@vip.qq.com</id>-->
+    <!--<pass>Dd1030625</pass>-->
+  </UserInfo>
+  <ReservInfo>
+    <Reserve phone="13301900669" lname="桑" fname="震斌" idtype="中华人民共和国居民身份证" idnum="310115198311070954" rtime="18" rtimemax="20" leasttime="30" count="1" email="sangzb@gmail.com">
+    </Reserve>
+  </ReservInfo>
+</UserConfig>
