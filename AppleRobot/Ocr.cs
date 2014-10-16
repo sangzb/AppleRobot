@@ -89,7 +89,7 @@ namespace AppleRobot
             DateTime timeStart = DateTime.Now;
             // Performs the actual recognition
             string s = ocr.Recognize("checkcode.png", -1, -1, -1, -1, -1, recognizeType, outputFormat, dict);
-            Clipboard.SetText(s);
+            Clipboard.SetText("IP-" + System.Text.RegularExpressions.Regex.Replace(s, @"\s", ""));
             DateTime timeEnd = DateTime.Now;
         }
 

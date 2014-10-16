@@ -25,7 +25,6 @@
 	  <level> 501</level>
     </Store>
   </StoreInfo>
-  
  <!--
   <StoreInfo>
   	<Store>
@@ -75,8 +74,9 @@
 	  <level> 500</level>
     </Store>
   </StoreInfo>
+ -->
   <ProductInfo>
-  -->
+ 
   	<!--CN-->
   	<!--<Product level ="300" count="1" name="iPhone 6+ 64GB 金色"    code ="MGAK2CN/A" type ="0" size="64" color ="金色"  product="iPhone 6 Plus" />-->
   	<!--HK-->
